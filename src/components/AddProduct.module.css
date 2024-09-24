@@ -1,0 +1,3 @@
+input[type=text]:focus{
+    outline:solid 5px green;
+}
